@@ -5,10 +5,14 @@
 [Oo]bj/
 [Bb]uild
 /[Ll]ibrary/
+Library/metadata/
+/Library/metadata/
 sysinfo.txt
 *.stackdump
 # Google VR, Android
+/Assets/GoogleVR/
 Assets/GoogleVR/
+/Assets/Plugins/
 Assets/Plugins/
 #project settings
 PtojectSettings/
