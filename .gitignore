@@ -9,6 +9,7 @@ Library/metadata/
 /Library/metadata/
 sysinfo.txt
 *.stackdump
+*.meta
 # Google VR, Android
 /Assets/GoogleVR/
 Assets/GoogleVR/

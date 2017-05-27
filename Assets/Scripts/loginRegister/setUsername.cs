@@ -7,11 +7,12 @@ public class setUsername : MonoBehaviour {
 
     public Dropdown dropdown;
     public InputField inputField;
+    /*
     public void dropdownValueChanged(int index)
     {
         List<Dropdown.OptionData> dropdownOptions = dropdown.GetComponent<Dropdown>().options;
         inputField.text = dropdownOptions[index].text;
-    }
+    }*/
 	// Use this for initialization
 	void Start () {
     }
